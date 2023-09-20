@@ -6011,6 +6011,18 @@
       "age": 50,
       "description": "His powers are that of incredible annoyance",
       "id": 1002
+    },
+    {
+      "name": {},
+      "age": null,
+      "description": {},
+      "id": 1003
+    },
+    {
+      "name": "Anthony Bosek",
+      "age": 42,
+      "description": "A javascript powerhouse, making clean code & logic seem easy!!",
+      "id": 1004
     }
   ]
 }
